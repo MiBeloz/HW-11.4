@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HW-11.4", "HW-11.4.vcxproj", "{BB733F1E-0B74-452E-94B7-C5E2319999ED}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FigureLibrary", "..\FigureLibrary\FigureLibrary.vcxproj", "{28728A5B-07B9-4645-B016-78DB7FD07F53}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FigureLibrary", "..\HW-11.4\FigureLibrary\FigureLibrary.vcxproj", "{28728A5B-07B9-4645-B016-78DB7FD07F53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

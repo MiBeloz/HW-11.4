@@ -141,8 +141,8 @@
     <ClInclude Include="main.h" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FigureLibrary\FigureLibrary.vcxproj">
-      <Project>{28728a5b-07b9-4645-b016-78db7fd07f53}</Project>
+    <ProjectReference Include="FigureLibrary\FigureLibrary.vcxproj">
+      <Project>{2393627b-b1df-417e-b8b0-5b19cf4a058a}</Project>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

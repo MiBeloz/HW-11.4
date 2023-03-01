@@ -1,15 +1,15 @@
 ﻿#pragma once
 
-#include "classes/Figure.h"
-#include "classes/Triangle.h"
-#include "classes/Quadrilateral.h"
-#include "classes/Parallelogram.h"
-#include "classes/Rectangle.h"
-#include "classes/Rhombus.h"
-#include "classes/Square.h"
-#include "classes/RightTriangle.h"
-#include "classes/IsoscelesTriangle.h"
-#include "classes/EquilateralTriangle.h"
+#include "FigureLibrary/Figure.h"
+#include "FigureLibrary/Triangle.h"
+#include "FigureLibrary/Quadrilateral.h"
+#include "FigureLibrary/Parallelogram.h"
+#include "FigureLibrary/Rectangle.h"
+#include "FigureLibrary/Rhombus.h"
+#include "FigureLibrary/Square.h"
+#include "FigureLibrary/RightTriangle.h"
+#include "FigureLibrary/IsoscelesTriangle.h"
+#include "FigureLibrary/EquilateralTriangle.h"
 
 #include <iostream>
 
