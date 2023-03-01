@@ -1,5 +1,5 @@
 *
-!/classes/
+!/FigureLibrary/
 !.gitignore
 !*.h
 !*.cpp
